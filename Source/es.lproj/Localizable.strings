@@ -1,0 +1,10 @@
+/*
+ Localizable.strings
+ EMTClient
+
+ Created by Adolfo on 23/02/16.
+ Copyright (c) 2016 Desappstre Studio. All rights reserved.
+ */
+
+"HTTP_CONNECTION_ERROR" = "Parece que no se puede conectar con el servidor de la EMT";
+"JSON_ERROR" = "Lo que hemos recibido no es lo que esperábamos...";
