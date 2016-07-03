@@ -61,9 +61,9 @@ public class EMTClient : NSObject
     private var httpConfiguration: NSURLSessionConfiguration!
 
     ///
-    private let developerKey: String = "WEB.SERV.adolfo.vera@outlook.com"
+    private let developerKey: String = ""
     ///
-    private let passKey: String = "15F8BF9E-1B8C-47A7-8587-25A9B459E534"
+    private let passKey: String = ""
     ///
     private let baseURL: String = "https://openbus.emtmadrid.es/emt-proxy-server/last"
 
